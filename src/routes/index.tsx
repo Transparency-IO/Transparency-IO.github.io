@@ -101,7 +101,7 @@ function Index() {
             </a>
           </nav>
           <span className="rounded-full border border-brand/20 bg-cream/70 px-4 py-2 text-xs font-semibold uppercase tracking-widest text-brand">
-            Coming 2025
+            Coming 2026
           </span>
         </header>
 
@@ -381,7 +381,7 @@ function Index() {
         <footer
           className="flex flex-col items-center justify-between gap-4 py-10 text-xs text-ink/50 sm:flex-row"
         >
-          <span>© 2025 Transparency. Interviews, made honest.</span>
+          <span>© 2026 Transparency. Interviews, made honest.</span>
           <div className="flex gap-6">
             <a href="#" className="transition hover:text-brand">
               Privacy
